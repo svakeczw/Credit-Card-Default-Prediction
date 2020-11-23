@@ -12,7 +12,17 @@ https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 ## 1. Data preprocessing
 * Apply noramalization to scale the feature
 * Apply binning & One-Hot encoder to categorical feature
+
+processed data example:
+![processed data example](data/processed_data.png "processed data example")
 ## 2. Model training & prediction
 * Use tensorflow to build & train the model, make prediction and evaluate. Also view in google colab: https://colab.research.google.com/drive/1-dq5LfXWJXcIoWVhxteEBZnlBTRPY8qD?usp=sharing
+
+neural network structure overview:
+![neural network structure overview](data/nn_overview.png "neural network structure overview")
 ## 3. User interface design
 * Use python library 'tkinter' to build a UI
+
+user interface overview:
+![user interface overview](data/UI1.png "user interface overview")
+![user interface overview](data/UI2.png "user interface overview")
