@@ -5,8 +5,10 @@
 
 
 ## Table of Content
-* Data-preprocessing
-* Model-training-prediction
+### Data-preprocessing
+data cleaning and preprocessing
+### Model-training-prediction
+using tensorflow to build & train the model, make prediction and evaluate.
 
 
 
